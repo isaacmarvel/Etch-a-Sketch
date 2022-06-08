@@ -1,4 +1,6 @@
 # Etch-a-Sketch
+Odin Project Assignment
+Instructions:
 create a webpage with a 16x16 grid divs in a container div with js. 
 
 Set up a hover effect so divs change color when mouse passes over them, leaving a trail. Happens when mouse enters a div and ends when mouse leaves it. Can set event listeners for either of those events as a starting point.
